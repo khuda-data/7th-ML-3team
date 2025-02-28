@@ -13,7 +13,11 @@
 
 ## 폴더 구조
 ┣ 📂 1_crawling_data # 크롤링한 데이터 저장 폴더
+
 ┣ 📂 2_pre_EDA # 전처리 된 데이터 파일과 EDA 파일
+
 ┣ 📂 3_model # XGBoost 기반 모델 소스 코드와 성능 검증 시각화
+
 ┣ 📜 4_recommendation # Word2Vec 기반 추천 시스템 소스 코드와 데이터 파일
+
 ┗ 📜 README.md # 프로젝트 설명 파일
